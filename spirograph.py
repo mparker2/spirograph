@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun Mar 13 13:47:19 2016
-
-@author: Matthew
+A script for drawing nice spirals
 """
 
 from itertools import chain, repeat
